@@ -1,94 +1,128 @@
-```markdown
-<div align="center">
+# Hi, I'm Md Abdul Mumit Miah
 
-# Md Abdul Mumit Miah
+<div align="left">
 
-### Full Stack Developer • Founder of Mumit Studio
-
-<p>
-  <a href="https://mumitstudio.com">Website</a> •
-  <a href="mailto:mdabdulmumitmiah123@gmail.com">Email</a> •
-  <a href="https://github.com/mumitstudio">GitHub</a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Founder+of+Mumit+Studio;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing Animation" />
+### Graphic Designer | Web Designer & Developer | WordPress Expert
 
 </div>
 
 ---
 
-## About Me
+##  About Me
 
-I am a Full Stack Developer from Rangpur, Bangladesh, focused on building fast, scalable, and user-friendly web applications. I enjoy working with modern technologies and continuously improving my skills by exploring new frameworks and tools.
+I'm **Md Abdul Mumit Miah**, a passionate Graphic Designer, Web Designer, and Developer with over **4 years of professional experience**.
 
-- Founder of **Mumit Studio**
-- Building modern web applications
-- Learning **Next.js**, **Laravel**, and **AI**
-- Passionate about clean code and user experience
+I specialize in creating modern brand identities, professional print materials, responsive websites, and WordPress solutions that help businesses establish a strong and memorable presence.
+
+My goal is to deliver creative, high-quality, and effective solutions that bring ideas to life.
 
 ---
 
-## Tech Stack
+## What I Do
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,python,mysql,mongodb,firebase,tailwind,bootstrap,git,github,vscode,figma,linux" />
-</p>
+### Web Design & Development
+- WordPress Website Design
+- WordPress Customization
+- Elementor Website Design
+- Responsive Website Development
+- Landing Page Design
+- HTML5, CSS3 & Bootstrap Development
+
+### Graphic Design & Branding
+- Logo Design
+- Brand Identity Design
+- Business Card Design
+- Letterhead Design
+- Envelope Design
+- Email Signature Design
+- Flyer Design
+- Brochure Design
+- Social Media Ads Design
+- Banner Design
+- Book Cover Design
+- Invoice Design
+- ID Card Design
+- Presentation Folder Design
+- Compliment Slip Design
+
+---
+
+## Technologies & Tools
+
+### Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Design Tools
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=AdobeIllustrator&logoColor=FF9A00)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=AdobeInDesign&logoColor=FF3366)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mumitstudio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumitstudio&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mumitstudio&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumitstudio&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mumitstudio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mumitstudio&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Activity Graph
+## Professional Services
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mumitstudio&theme=tokyo-night&hide_border=true" />
-</p>
+✔ WordPress Website Design
+
+✔ Landing Page Design
+
+✔ Responsive Website Development
+
+✔ Elementor Website Design
+
+✔ Logo & Brand Identity Design
+
+✔ Business Card Design
+
+✔ Letterhead Design
+
+✔ Envelope Design
+
+✔ HTML Email Signature Design
+
+✔ Flyer & Brochure Design
+
+✔ Social Media Ads Design
+
+✔ Book Cover Design
+
+✔ Banner & Web Banner Design
+
+✔ Presentation Folder Design
+
+✔ Invoice Design
+
+✔ ID Card Design
 
 ---
 
-## Achievements
+## Mission
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mumitstudio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-<a href="https://mumitstudio.com">
-<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:mdabdulmumitmiah123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mumitstudio">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+> Creating memorable brand identities and modern digital experiences through creative design and professional web development.
 
 ---
 
 <div align="center">
 
-*"Building clean, scalable, and meaningful digital experiences."*
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=mumitstudio&label=Profile+Views&color=3B82F6&style=flat" />
+*"Design is intelligence made visible."*
 
 </div>
-```
